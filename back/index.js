@@ -9,7 +9,7 @@ app.use(express.static("public"));       //for converting thh object into the ac
 app.use(express.json());
 app.use(bodyParser.json());
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://moviesfront-q1wi.onrender.com",
     credentials:true
 }))
 
