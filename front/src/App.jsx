@@ -23,7 +23,7 @@ function App() {
     setmovies([]);
 
     try {
-      const response = await axios.post(`http://localhost:3000/ai`, {
+      const response = await axios.post(`https://movieback-wgyq.onrender.com/ai`, {
         prompt: query,
       });
 
