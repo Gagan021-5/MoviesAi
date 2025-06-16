@@ -3,7 +3,7 @@ import Moviecard from "./components/Moviecard";
 import { IoSparkles } from "react-icons/io5";
 import axios from "axios";
 import { LuSparkle } from "react-icons/lu";
-import BlurText from "./components/blurtext";
+import BlurText from "./components/AnimText";
 import { BackgroundBeamsWithCollision } from "./components/frontui,";
 
 function App() {
