@@ -10,7 +10,8 @@ app.use(express.json());
 app.use(bodyParser.json());
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://moviesfront-q1wi.onrender.com"],
+    origin: ["http://localhost:5173", "https://moviesfront-q1wi.onrender.com/"],
+    methods: ["GET", "POST"],
     credentials: true,
   })
 );
