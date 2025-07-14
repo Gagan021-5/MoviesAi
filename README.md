@@ -57,7 +57,7 @@
 |:---------------------:|:---------------------:|:-------------------:|
 | ⚛️ React (Vite)       | 🖥️ Node.js + Express  | 🎬 OMDb API         |
 | 🎨 Tailwind CSS       | 🗃️ RESTful API        | 🤖 Gemini API       |
-| 🔗 Axios              |                       |                     |
+
 
 ---
 
